@@ -1,6 +1,2 @@
-fastapi
-uvicorn
-numpy
-pandas
-scikit-learn
-torch
+flask>=3.0.0
+gunicorn>=21.2.0
