@@ -1,4 +1,4 @@
-from src.registry import app
+from registry import app
 
 def main():
     print("Starting Docker Registry on port 5000...")

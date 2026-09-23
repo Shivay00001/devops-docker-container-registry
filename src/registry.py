@@ -1,7 +1,7 @@
 import os
 import uuid
 from flask import Flask, request, jsonify, Response
-from src.storage import LocalStorage
+from storage import LocalStorage
 
 app = Flask(__name__)
 storage = LocalStorage()
