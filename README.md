@@ -1,5 +1,7 @@
 # Devops Docker Container Registry
 
+Built by [VisionQuantech](https://visionquantech.com) — AI agents, apps & tools for small businesses.
+
 Python Docker container registry with CI/CD, storage backend, and web UI.
 
 ![Language](https://img.shields.io/badge/Language-HTML-blue)
